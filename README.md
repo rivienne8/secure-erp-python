@@ -1,5 +1,7 @@
 # Secure ERP
 
+_Project wrote in July 2020. (group project during Codecool course)_
+
 ## Story
 
 You are working at an enterprise solution company.
